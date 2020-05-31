@@ -1,2 +1,2 @@
-# jsonkardiv1
+# Android app with JSON implementation
 JSON Implementation di aplikasi android
